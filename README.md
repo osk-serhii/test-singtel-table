@@ -1,7 +1,10 @@
 # SINGTEL TEST TASK - TABLE COMPONENT
 
 ## Online Demo
-waiting...
+https://test-singtel-table.vercel.app/
+
+## Online Storybook Demo
+https://test-singtel-table-storybook.vercel.app/
 
 ## Core features
 - Table component
